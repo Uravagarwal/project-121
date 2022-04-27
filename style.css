@@ -1,0 +1,72 @@
+#head
+{
+    letter-spacing: 2px;
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#vs
+{
+    letter-spacing: 2px;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+#mobilenet
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.test_image_and_Results
+{
+    background-color: grey;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.copy_right_footer
+  {
+    position: center;
+    background-color: Grey;
+    color: darkcyan;
+    bottom: 0;
+    width: 100%;
+    font-weight: 900;
+    text-align: center;
+    height: 30;
+    font-size: 20;
+    margin-top: 305px;
+  }
+h5
+{
+    background-color: white;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+#res
+{
+    color: red;
+    font-weight: bold;
+}
+
+#conc
+{
+    background-color: rgb(255, 192, 255);
+    border-radius: 10px;
+    position: center;
+    margin-top: 2000px;
+    margin-left:390px;
+    margin-right: 450px;
+}
+
+#p
+{
+    letter-spacing: 1px;
+    font-weight: bold;
+    
+}
